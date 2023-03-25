@@ -1,0 +1,17 @@
+.App {
+    height: auto;
+    background: #C3C3C3 scroll;
+        
+}
+.row{
+    display: flex;
+    justify-content: center;
+    box-sizing: content-box;
+}
+
+.icons{
+    align-content: center;
+    width: 20px;
+    height: 20px;
+}
+
